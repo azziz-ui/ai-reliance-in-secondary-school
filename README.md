@@ -1,7 +1,5 @@
 # AI Reliance in Secondary School
 
-![Illustration of a student-led learning loop: think, ask, verify](assets/learning-loop.svg)
-
 **AI Reliance and Perceived Technology Dependence Among Secondary-School Students**
 
 *A case study of NIS Karaganda, Kazakhstan · May 2026*
