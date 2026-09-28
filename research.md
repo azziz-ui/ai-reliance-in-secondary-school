@@ -356,8 +356,7 @@ The item asking whether AI has reduced independent thinking records
 students’ perceptions of their own behavior. It does not measure
 cognitive ability or demonstrate a decline caused by AI use.
 
-<img src="media/image2.png"
-style="width:6.7in;height:2.29552in" />
+![Likert-response patterns for five statements about AI use; item-level denominators are unavailable](assets/likert-responses.png)
 
 Figure 1. Likert-response patterns for five statements about AI use
 (Figure 2 in the original manuscript; item-level denominators are
